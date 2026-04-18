@@ -1,0 +1,5 @@
+/* Minimal overrides - most styling comes from GitHub's own classes */
+#gh-recs-row .Link--primary:hover {
+  color: var(--fgColor-accent, #0969da) !important;
+  text-decoration: underline;
+}

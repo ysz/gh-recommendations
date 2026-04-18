@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Engine intermediate data (BigQuery exports, matrices, embeddings)
+engine/data/
+
+# Environment
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# uv
+uv.lock
