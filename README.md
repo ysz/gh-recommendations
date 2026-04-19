@@ -17,6 +17,8 @@ Recommendations are based on how people star repos: if users who starred repo A 
 
 Star counts and descriptions are loaded live from GitHub.
 
+Currently covers repositories with 100+ stars (~9K repos in the dataset).
+
 ## How recommendations work
 
 Three signals are combined to score each recommendation:
