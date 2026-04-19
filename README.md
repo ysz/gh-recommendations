@@ -4,6 +4,8 @@ A Chrome extension that shows similar repository recommendations directly in the
 
 Recommendations are based on how people star repos: if users who starred repo A also tend to star repo B, those repos are likely related.
 
+https://github.com/user-attachments/assets/97499ecb-51a3-43f7-af1b-629b3ffa13b8
+
 ## Install the extension
 
 1. Clone this repo:
